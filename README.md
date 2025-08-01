@@ -313,10 +313,10 @@ p.note { display: none; }
 <h2><span class="yellow">今回はこのメニューから左側の和食です</span></h2>
 <a href="20250801_065.JPG" target="_blank"><img src="20250801_065.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">現地時間 10:54、5時間強の飛行でバンコクの上空に到達</span></h2>
+<h2><span class="yellow">現地時間 PM10:54、5時間強の飛行でバンコクの上空に到達</span></h2>
 <a href="20250801_061.JPG" target="_blank"><img src="20250801_061.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">人口約600万人の街、西の空にお月様が見えました 20:49</span></h2>
+<h2><span class="yellow">人口約600万人の街、西の空にお月様が見えました PM10:55</span></h2>
 <a href="20250801_062.JPG" target="_blank"><img src="20250801_062.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">タクシーは行き先を告げると、スマホ地図を頼りに運転してました</span></h2>
