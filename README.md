@@ -205,11 +205,11 @@ p.note { display: none; }
 <a href="20250801_015.JPG" target="_blank"><img src="20250801_015.JPG" alt="サンプル画像" class="responsive-media"></a>
     
     
-<h2><span class="yellow">バイクもしばらく乗れないので、ちょっとエンジンかけてBatt外します<br>画像クリックで動画再生します↓</span></h2>
+<h2><span class="yellow">バイクもしばらく乗れないので、ちょっとエンジンかけて水温が軽く温まる程度の暖気、その後Batt外します<br>画像クリックで動画再生します↓</span></h2>
 <a href="20250801_001.MOV" target="_blank"><img src="20250801_001.png" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250801_016.JPG" target="_blank"><img src="20250801_016.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">Battの-端子外して、かなり早めの冬眠モード</span></h2>
+<h2><span class="yellow">Battのマイナス端子外して、かなり早めの冬眠モード</span></h2>
 <a href="20250801_017.JPG" target="_blank"><img src="20250801_017.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">スーパーのお花たちもしばらく見納め</span></h2>
