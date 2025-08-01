@@ -187,7 +187,7 @@ p.note { display: none; }
 <h2><span class="yellow">リア周りの見た目が普通の車になりました</span></h2>
 <a href="20250801_011.JPG" target="_blank"><img src="20250801_011.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">タイに持ち込む無線機セットの作動確認<br>海外で電波を出すには現地の電波管理局に申請が必要ですが、現代の技術では簡単なPCソフトで電波出さずにインターネット経由で世界中と交信できます<br>左側の小さな箱がソフトが入ったスティックPC</span></h2>
+<h2><span class="yellow">タイに持ち込む無線機セットの作動確認<br>海外で電波を出すには現地の電波管理局に申請が必要ですが、現代の技術では簡単なPCソフトで電波出さずにインターネット経由で世界中と交信できます<br>左側の小さな箱がソフトが入ったCLIP PC</span></h2>
 <a href="20250801_012.JPG" target="_blank"><img src="20250801_012.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">写真の見た目が雑なので、AIに頼んでアニメ風の絵を生成してもらいました</span></h2>
