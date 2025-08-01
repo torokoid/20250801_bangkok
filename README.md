@@ -198,7 +198,7 @@ p.note { display: none; }
 <h2><span class="yellow">写真の見た目が雑なので、AIに頼んでアニメ風の絵を生成してもらいました</span></h2>
 <a href="20250801_013.png" target="_blank"><img src="20250801_013.png" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">日本の食事はしばらく食べないので、FKD前の大戸屋で鳥と野菜のセット</span></h2>
+<h2><span class="yellow">日本の食事はしばらく食べないので、FKD前の大戸屋で鳥と野菜の黒酢あん定食</span></h2>
 <a href="20250801_014.JPG" target="_blank"><img src="20250801_014.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">FKDは夏の怪談モード</span></h2>
