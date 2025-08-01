@@ -233,7 +233,7 @@ p.note { display: none; }
 <h2><span class="yellow">もうセミの季節ですね〜宇都宮駅西口の街路樹</span></h2>
 <a href="20250801_028.JPG" target="_blank"><img src="20250801_028.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">西口のマロニエバス乗り場の前に新しいビルが建設中</span></h2>
+<h2><span class="yellow">西口のマロニエバス乗り場の前に新しいビルが建設中<br>これから成田まで行って夕方の便でバンコクに飛びます</span></h2>
 <a href="20250801_029.JPG" target="_blank"><img src="20250801_029.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">東北道で佐野の山々を抜けて南下します</span></h2>
