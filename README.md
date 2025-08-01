@@ -177,11 +177,6 @@ p.note { display: none; }
     
 <h2><span class="yellow">30日はお散歩コースのお花に朝日が当たってこんにちは！</span></h2>
 <a href="20250801_008.JPG" target="_blank"><img src="20250801_008.JPG" alt="サンプル画像" class="responsive-media"></a>
-    
-<h2><span class="yellow">小さな公園では鶯がさえずりました</span></h2>
-<div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q9XaP_CcRJE?si=VVXYlHqVW5DqseHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
 
 <h2><span class="yellow">車は娘夫婦に託すので、無線のアンテナははずします</span></h2>
 <a href="20250801_009.JPG" target="_blank"><img src="20250801_009.JPG" alt="サンプル画像" class="responsive-media"></a>
@@ -223,6 +218,11 @@ p.note { display: none; }
 <a href="20250801_023.JPG" target="_blank"><img src="20250801_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250801_024.JPG" target="_blank"><img src="20250801_024.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250801_025.JPG" target="_blank"><img src="20250801_025.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">小さな公園では鶯がさえずりました</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q9XaP_CcRJE?si=VVXYlHqVW5DqseHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
     
 <h2><span class="yellow">お墓の向こうにはアマチュア無線のアンテナ、このサイズだと世界と交信できますね</span></h2>
 <a href="20250801_026.JPG" target="_blank"><img src="20250801_026.JPG" alt="サンプル画像" class="responsive-media"></a>
