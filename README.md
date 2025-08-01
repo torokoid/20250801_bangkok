@@ -189,7 +189,7 @@ p.note { display: none; }
 <h2><span class="yellow">無線機本体も下ろしました</span></h2>
 <a href="20250801_010.JPG" target="_blank"><img src="20250801_010.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">リア周りが普通の車になりました</span></h2>
+<h2><span class="yellow">リア周りの見た目が普通の車になりました</span></h2>
 <a href="20250801_011.JPG" target="_blank"><img src="20250801_011.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">タイに持ち込む無線機セットの作動確認<br>海外で電波を出すには現地の電波管理局に申請が必要ですが、現代の技術では簡単なPCソフトで電波出さずにインターネット経由で世界中と交信できます<br>左側の小さな箱がソフトが入ったスティックPC</span></h2>
@@ -280,7 +280,7 @@ p.note { display: none; }
 <h2><span class="yellow">手荷物検査も入念！</span></h2>
 <a href="20250801_046.JPG" target="_blank"><img src="20250801_046.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">63番ゲートからの機上でした</span></h2>
+<h2><span class="yellow">63番ゲートからの乗機でした</span></h2>
 <a href="20250801_047.JPG" target="_blank"><img src="20250801_047.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">今回の便は5つの会社のコードシェア便</span></h2>
@@ -304,7 +304,7 @@ p.note { display: none; }
 <a href="20250801_057.JPG" target="_blank"><img src="20250801_057.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250801_058.JPG" target="_blank"><img src="20250801_058.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">滑走路上でバードストライク、破片の掃除と滑走路点検の影響で離陸待ち 19:28</span></h2>
+<h2><span class="yellow">滑走路上でバードストライク発生、破片の掃除と滑走路点検の影響で離陸待ち 19:28</span></h2>
 <a href="20250801_059.JPG" target="_blank"><img src="20250801_059.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">やっと離陸して機内食をいただきました 20:49</span></h2>
