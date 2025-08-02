@@ -318,6 +318,11 @@ p.note { display: none; }
     
 <h2><span class="yellow">人口約600万人の街、西の空にお月様が見えました PM10:55</span></h2>
 <a href="20250801_062.JPG" target="_blank"><img src="20250801_062.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">ランディングまでの動画、ややピンボケ(> <)</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FDSQIFvArik?si=2pjoQK3vtKAaIgaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
     
 <h2><span class="yellow">タクシーは行き先を告げると、スマホ地図を頼りに運転してました</span></h2>
 <a href="20250801_063.JPG" target="_blank"><img src="20250801_063.JPG" alt="サンプル画像" class="responsive-media"></a>
